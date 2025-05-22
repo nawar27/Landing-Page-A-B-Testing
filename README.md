@@ -55,6 +55,7 @@ Although the difference in conversion rates between the two groups is minimal (0
 
 ## 3. Statistic Test
 In this case, we aim to test whether the new landing page has a positive impact on revenue.
+
 $$
 H_0 : \theta = \theta_0 \\
 H_1 : \theta > \theta_0
@@ -79,7 +80,7 @@ Since the computed z-statistic (**-1.3236**) is less than the critical value, **
 **Visualization**
 
 - we visualization our result statistic test
-![chart](picture\2.png)
+![chart](https://github.com/nawar27/Landing-Page-A-B-Testing/blob/main/picture/2.png)
 
 - Based on the graph, the test statistic (z-statistic = -1.3236) lies to the left of the normal distribution and does not exceed the z-critical value (z-critical = 1.6449)
 - Since the z-statistic falls within the acceptance region (green), we fail to reject the null hypothesis.

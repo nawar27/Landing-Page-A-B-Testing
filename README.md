@@ -47,7 +47,7 @@ In this section, we will fill in the table
 
 We do visualization
 
-![visual](picture\1.png)
+![visual]([picture\1.png](https://github.com/nawar27/Landing-Page-A-B-Testing/blob/main/picture/1.png))
 
 The conversion rate for the Control group is slightly higher than that of the Treatment group. Specifically, the Control group has a conversion rate of 0.120 (12.0%) with 17,601 conversions out of 146,196 users, while the Treatment group has a conversion rate of 0.118 (11.8%) with 17,374 conversions out of 146,240 users.
 

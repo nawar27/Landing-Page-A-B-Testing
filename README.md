@@ -58,6 +58,7 @@ In this case, we aim to test whether the new landing page has a positive impact 
 
 $$
 H_0 : \theta = \theta_0 \\
+
 H_1 : \theta > \theta_0
 $$
 

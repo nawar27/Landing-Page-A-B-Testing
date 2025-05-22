@@ -56,10 +56,9 @@ Although the difference in conversion rates between the two groups is minimal (0
 ## 3. Statistic Test
 In this case, we aim to test whether the new landing page has a positive impact on revenue.
 
-$$
-H_0 : \theta = \theta_0 \\
-H_1 : \theta > \theta_0
-$$
+
+$H_0: \theta = \theta_0$
+$H_1: \theta > \theta_0$
 
 <center>
 

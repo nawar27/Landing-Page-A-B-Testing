@@ -90,4 +90,4 @@ Since the computed z-statistic (**-1.3236**) is less than the critical value, **
 - The difference in conversion rates is not statistically significant.
 - So, we can say The new landing page does not provide sufficient statistical evidence that it significantly increases revenue.
 
-To view the full analysis, can check in [jupyter notebook](D:\Output\Python\ecommerce_ab_testing_2022_dataset1\ab_testing.ipynb)
+To view the full analysis, can check in [jupyter notebook](https://github.com/nawar27/Landing-Page-A-B-Testing/blob/main/ab_testing.ipynb)
